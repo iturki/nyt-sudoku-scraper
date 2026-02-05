@@ -1,6 +1,6 @@
 # NYT Sudoku Archive
 
-This repository contains a daily archive of Sudoku puzzles extracted from The New York Times. The puzzles are stored in a custom **.sdk** text format, making them easy to parse, analyze, or import into Sudoku solvers and applications.
+This repository contains a daily archive of Sudoku puzzles extracted from [The New York Times](https://www.nytimes.com/puzzles/sudoku). The puzzles are stored in a custom **.sdk** text format, making them easy to parse, analyze, or import into Sudoku solvers and applications.
 
 ## 📂 Repository Structure
 
